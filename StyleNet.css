@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000; 
+    }
+.container{
+    height: 638px;
+    background: url(https://assets.nflxext.com/ffe/siteui/vlv3/9c5457b8-9ab0-4a04-9fc1-e608d5670f1a/46b46de8-a269-4a25-b8cf-56c614b4b1f4/MX-es-20210719-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    width: 2000px;
+    text-align: center;
+}
+.header img{
+
+    height: 80px;
+    width: 80px;
+}
+#av{
+    height: 60px;
+    width: 120px;
+    padding-top: 40px;
+    padding-right:1100px;
+
+}
+.Sign-btn{
+    position: absolute;
+    top:8%left: 90%;
+    background: red;
+    color: #fff;
+    width: 80px;
+    height: 40 px;
+    font-size: 15px;
+    opacity: 0.8;
+    border-radius: 2px;
+    border: 0;
+}
+
+#uno{
+    position: absolute;
+    background: #000;
+    color: #fff;
+    margin: 8% 20%;
+}
+
+.p-uno{
+    font-size: 2.5em;
+}
+
+.p-dos{
+    font-size: 1.3em;
+    margin-top: 2%;;
+    width: 43%;
+}
+
+#imagen1{
+    float: right;
+    margin-top: -20%;
+    margin-right: -60px;
+}
+
+/* ------------------------------------------------------- */
+
+#dos{
+    position: absolute;
+    background: #000;
+    color: #fff;
+    margin: 37% 20%;
+}
+
+.p-uno2{
+    font-size: 2.5em;
+    width: 450px;
+    margin-left: 80%;
+    
+}
+
+.p-dos2{
+    font-size: 1.3em;
+    margin-top: 2%;;
+    width: 75%;
+    margin-left: 80%;
+    
+}
+
+#imagen2{
+    float: left;
+    margin-top: -35%;
+    margin-right: -70px;   
+}
+
+/* ------------------------------------------------------- */
+
+#tres{
+    position: absolute;
+    background: #000;
+    color: #fff;
+    margin: 67% 20%;
+}
+
+.p-uno3{
+    font-size: 2.5em;
+}
+
+.p-dos3{
+    font-size: 1.3em;
+    margin-top: 2%;;
+    width: 47%;
+}
+
+#imagen3{
+    float: right;
+    margin-top: -27%;
+    margin-right: -60px;
+}
+
+/* ------------------------------------------------------- */
+
+#cuatro{
+    position: absolute;
+    background: #000;
+    color: #fff;
+    margin: 95% 20%;
+}
+
+.p-uno4{
+    font-size: 2.5em;
+    width: 450px;
+    margin-left: 60%;
+}
+
+.p-dos4{
+    font-size: 1.3em;
+    margin-top: 2%;;
+    width: 56%;
+    margin-left: 60%;
+    
+}
+
+#imagen4{
+    float: left;
+    margin-top: -25%;
+    margin-right: -70px;
+    width: 10%;
+}
+
+/* ------------------------------------------------------- */
+
+#faq{
+    position: absolute;
+    background: rgb(0, 0, 0);
+    margin-top: 2300px;
+    height: 1150px;
+    color: #fff;
+}
+
+#p-faq{
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.gray{
+    background: rgb(32, 32, 32);
+    padding: 20px;
+    font-size: 20px;
+    margin: 7px 26%;
+}
+
+.gray:hover{
+    cursor: pointer;
+}
+
+#questions{
+    margin-top: 30px;
+}
+
+#ready2{
+    margin-top: -26%;
+}
+
+table{
+    position: absolute;
+    margin-top: 3200px;
+    margin-left: 23%;   
+}
+
+#questions-enlace{
+    font-size: 14px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(133, 133, 133);
+    padding: 20px;
+    margin: 10px;
+    font-size: 11px;
+    
+}
+
+a:hover{
+    text-decoration-line: underline;
+}
